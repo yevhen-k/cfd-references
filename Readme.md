@@ -77,7 +77,7 @@
     2.  Transient simulation of opening and closing guide vanes of a hydraulic turbine: https://www.tfd.chalmers.se/~hani/kurser/OS_CFD_2015/AbhishekSaraf/TME205_AbhishekSaraf_Report.pdf
 
 
-# Auxilizry software
+# Auxiliary software
 
 ## Paraview
 
@@ -113,7 +113,7 @@
 6.  József Nagy: https://www.youtube.com/@OpenFOAMJozsefNagy
 
 
-# Auxilizry education
+# Auxiliary education
 
 1.  What is the Adjoint Method in CFD?: https://blog.engys.com/what-is-the-adjoint-method-in-cfd/
 2.  Introduction to Partial Differential Equations: https://ocw.mit.edu/courses/18-152-introduction-to-partial-differential-equations-fall-2011/download/
