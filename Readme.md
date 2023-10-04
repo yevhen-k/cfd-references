@@ -101,7 +101,7 @@
 3.  [5 videos] Salome: https://www.youtube.com/playlist?list=PLkKD7eCr9mpzF036K1TW_PAOJnnGgvwsk
 
 
-# Valueable
+# Valuable
 
 ## Playlists / Channels
 
