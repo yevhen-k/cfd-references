@@ -17,6 +17,8 @@
     3.  https://github.com/precice/tutorials
 2.  ⭐ https://www.cfd-online.com/Forums/openfoam/164955-looking-step-step-tutorial-chtmultiregionsimplefoam-heatexchanger.html
 3.  [73 videos] OpenFOAM Heat Transfer: https://www.youtube.com/playlist?list=PLhPfNw4V4_YR2Qa3Q9-AzNSF2J9Dc4_qT
+4.  google: optimization design of heat exchanger deep learning
+5.  google: optimization design of heat exchanger
 
 ### Wiki, Books
 
@@ -120,6 +122,7 @@
 3.  Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods: https://netlib.org/templates/templates.pdf
 4.  Applied Computational Fluid Dynamics by Siemens: https://www.coursera.org/learn/applied-computational-fluid-dynamics#modules
 5.  Notes on Project Work, CFD, Programming and Computing: http://www.thevisualroom.com/index.html
+6.  Definitions, equations, derivations, references: https://potentialflow.com/flow-elements
 
 
 # Examples / Demos
