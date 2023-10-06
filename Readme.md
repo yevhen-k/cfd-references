@@ -109,10 +109,14 @@
 
 1.  TuxRiders: https://www.youtube.com/@TuxRiders/playlists
 2.  Fluid Mechanics 101: https://www.youtube.com/@fluidmechanics101/playlists
-3.  CPPMechEngTutorials: https://www.youtube.com/@CPPMechEngTutorials/playlists
-4.  SAE Miller: https://www.youtube.com/@SAEMiller/playlists
+3.  ⭐⭐⭐⭐ CPPMechEngTutorials: https://www.youtube.com/@CPPMechEngTutorials/playlists
+4.  ⭐⭐⭐⭐⭐ SAE Miller: https://www.youtube.com/@SAEMiller/playlists
 5.  Theo Ong Science and Engineering: https://www.youtube.com/@TheoOngScienceAndEngineering/playlists
-6.  József Nagy: https://www.youtube.com/@OpenFOAMJozsefNagy
+6.  ⭐⭐⭐⭐ József Nagy: https://www.youtube.com/@OpenFOAMJozsefNagy
+7.  ⭐⭐⭐⭐ Cyprien Rusu: https://www.youtube.com/@Feaforall/playlists
+8.  Holzmann CFD: https://www.youtube.com/@HolzmannCFD
+9.  MIT OpenCourseWare: https://www.youtube.com/@mitocw
+10. ⭐⭐⭐⭐⭐ Steve Brunton: https://www.youtube.com/@Eigensteve
 
 
 # Auxiliary education
