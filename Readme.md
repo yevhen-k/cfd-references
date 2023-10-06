@@ -144,3 +144,8 @@
 
 1. Conjugate Heat Transfer with the Multiphysics Coupling Library preCICE: https://www5.in.tum.de/pub/Cheung2016_Thesis.pdf
 2. Supersonic and Transonic Adjoint-based Optimization of Airfoils: https://fenix.tecnico.ulisboa.pt/downloadFile/281870113704653/76594_Thesis_Final.pdf
+
+
+# Disclamer
+
+Stars ⭐ are just my subjective opinion of source quality, its momentary priority to study with, and highliter of source's relevance for my learning goals.
