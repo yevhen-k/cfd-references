@@ -20,7 +20,7 @@
 4.  google: optimization design of heat exchanger deep learning
 5.  google: optimization design of heat exchanger
 
-### Wiki, Books
+## Wiki, Books, Courses
 
 1.  ⭐⭐ Unofficial OpenFOAM wiki: https://openfoamwiki.net/index.php/Main_Page
 2.  ⭐⭐⭐⭐ OpenFOAM Training by CFD Support: https://www.cfdsupport.com/OpenFOAM-Training-by-CFD-Support/node1.html
@@ -28,6 +28,9 @@
 4.  ⭐⭐⭐⭐ Tutorials: https://wiki.openfoam.com/index.php?title=Tutorials
 5.  ⭐⭐⭐⭐ Notes on Computational Fluid Dynamics: General Principles: https://doc.cfd.direct/notes/cfd-general-principles/
 6.  ⭐⭐⭐⭐ Tutorials, Examples, References: http://caelinux.org/wiki/index.php/Doc:OpenFOAM
+7.  Advanced Fluid Mechanics: http://courses.washington.edu/me431/
+    1.  http://courses.washington.edu/me431/handouts/
+8.  Problems ans Solutions: https://montoguequiz.com/mechanical/
 
 
 ## Journals
@@ -74,7 +77,10 @@
 1.  Literature: https://wiki.openfoam.com/Literature
 2.  https://www.cfd-online.com/Links/education.html
 4.  https://z-lib.is/fulltext?q=openfoam&type=words&page=2
-5.  https://www.tfd.chalmers.se/~hani/kurser/
+5.  https://engineeringbookslibrary.wordpress.com/
+    1.  https://engineeringbookslibrary.wordpress.com/fluid-mechanics/
+    2.  https://engineeringbookslibrary.wordpress.com/heat-and-mass-transfer/
+6.  https://www.tfd.chalmers.se/~hani/kurser/
     1.  https://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
     2.  Transient simulation of opening and closing guide vanes of a hydraulic turbine: https://www.tfd.chalmers.se/~hani/kurser/OS_CFD_2015/AbhishekSaraf/TME205_AbhishekSaraf_Report.pdf
 
@@ -127,24 +133,29 @@
 4.  Applied Computational Fluid Dynamics by Siemens: https://www.coursera.org/learn/applied-computational-fluid-dynamics#modules
 5.  Notes on Project Work, CFD, Programming and Computing: http://www.thevisualroom.com/index.html
 6.  Definitions, equations, derivations, references: https://potentialflow.com/flow-elements
+7.  Fluid Mechanics Lesson Series - Video lessons to help students learn undergraduate fluid mechanics: https://www.youtube.com/playlist?list=PLQR3QcO-W5he1X1GHd_IutnslXcr4mIh8
 
 
 # Examples / Demos
 
 1.  [3 videos] Fluid Simulation: https://www.youtube.com/playlist?list=PLfd9K5jHLvZBPmaQtSkMnu7Nhj0CSxPy1
 2.  ⭐⭐⭐⭐⭐ OpenFOAM® Training Cases | Free Tutorials: https://holzmann-cfd.com/community/training-cases
-3.  NACA 0012
-    1.  https://www.openfoam.com/documentation/guides/latest/doc/verification-validation-naca0012-airfoil-2d.html
-    2.  https://wiki.openfoam.com/NACA0012_by_Michael_Alletto
-    3.  http://www.wolfdynamics.com/tutorials.html?id=148
-    4.  https://turbmodels.larc.nasa.gov/naca0012_val.html
-4.  https://www.bakker.org/index.htm
+3.  https://www.bakker.org/index.htm
 
 # Thesis
 
 1. Conjugate Heat Transfer with the Multiphysics Coupling Library preCICE: https://www5.in.tum.de/pub/Cheung2016_Thesis.pdf
 2. Supersonic and Transonic Adjoint-based Optimization of Airfoils: https://fenix.tecnico.ulisboa.pt/downloadFile/281870113704653/76594_Thesis_Final.pdf
 
+
+# Repos
+
+1.  A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/: https://github.com/barbagroup/CFDPython
+    1.  [13 videos] 12 Steps to Navier-Stokes in Python: https://www.youtube.com/playlist?list=PLE4jpqcRJiBpODH_ksfgJmKsSc9-CN3_A
+2.  2D incompressible fluid solver implemented in Taichi: https://github.com/takah29/2d-fluid-simulator
+3.  2-Dimensional Finite-Volume-Method compressible fluid solver in Taichi language: https://github.com/hejob/taichi-fvm2d-fluid-ns
+4.  An incompressible fluid solver written in Taichi language: https://github.com/houkensjtu/karman_taichi
+5.  10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020): https://github.com/taichi-dev/difftaichi
 
 # Disclamer
 
