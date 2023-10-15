@@ -156,6 +156,9 @@
 3.  2-Dimensional Finite-Volume-Method compressible fluid solver in Taichi language: https://github.com/hejob/taichi-fvm2d-fluid-ns
 4.  An incompressible fluid solver written in Taichi language: https://github.com/houkensjtu/karman_taichi
 5.  10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020): https://github.com/taichi-dev/difftaichi
+6.  Airfoil with UNET: https://github.com/flowfusic/flowfusic_airfoil_unet
+    1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
+    2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
 
 # Disclamer
 
