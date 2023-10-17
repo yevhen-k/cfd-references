@@ -42,6 +42,10 @@
 ### Articles
 
 1. Full-Scale CFD Investigations of Helical Strakes as a Means of Reducing the Vortex Induced Forces on a Semi-Submersible: https://strathprints.strath.ac.uk/60458/1/Holland_Tezdogan_Oguz_OE_2017_Full_scale_CFD_investigations_of_helical_strakes.pdf
+2. Galffy, R. Gaggl, R. Mühlbacher, D. Frank, J. Schlarp, and G. Schitter, [Turbulence load prediction for manned and unmanned aircraft by means of anticipating differential pressure measurements](http://dx.doi.org/10.1007/s13272-021-00512-y), CEAS Aeronautical Journal, vol. 12, 2021. [[Download](https://publik.tuwien.ac.at/files/publik_292332.pdf)]
+3. Galffy, M. Böck, and A. Kugi, [Nonlinear 3D path following control of a fixed-wing aircraft based on acceleration control](http://dx.doi.org/10.1016/j.conengprac.2019.03.006), Control Engineering Practice, vol. 86, p. 56–69, 2019. [[Download](https://publik.tuwien.ac.at/files/publik_278869.pdf)]
+4. A. Galffy, J. Schlarp, D. Frank, R. Mühlbacher, and G. Schitter, Turbulence prediction for aircraft by means of high-dynamic differential pressure measurements, in Proceedings of the Aerospace Europe Conference AEC2020, 2020. [[Download](https://publik.tuwien.ac.at/files/publik_292322.pdf)]
+5. A. Galffy, F. Car, and G. Schitter, [Calibration and flight test of a 3D printed 5-hole probe for high-dynamic wind measurements for UAV](http://dx.doi.org/10.1109/REDUAS47371.2019.8999671), in Proceedings of the International Workshop on Research, Education and Development on Unmanned Aerial Systems, 2019. [[Download](https://publik.tuwien.ac.at/files/publik_282543.pdf)]
 
 
 ## Tutorals
