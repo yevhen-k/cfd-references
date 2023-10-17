@@ -160,6 +160,12 @@
     1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
     2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
 
+
+# Projects
+
+1. Active turbulence cancelling: https://turbulence-solutions.aero/technology/
+
+
 # Disclamer
 
 Stars ⭐ are just my subjective opinion of source quality, its momentary priority to study with, and highliter of source's relevance for my learning goals.
