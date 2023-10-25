@@ -8,7 +8,11 @@
 2.  OpenFOAM Machine Learning Hackathon: https://github.com/OFDataCommittee/OFMLHackathon/tree/main
 3.  Towards physics-based deep learning in OpenFOAM: Combining OpenFOAM with the PyTorch C++ API: https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/3528/2022-07-11-OFW17-training-pinn.pdf?sequence=1&isAllowed=y
 4.  Machine learning-aided CFD with OpenFOAM and PyTorch: https://andreweiner.github.io/reveal.js/ofw_training_2021.html#/8
-5.  Develop Physics-Informed Machine Learning Models with Graph Neural Networks: https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/
+5.  NVIDIA Modulus is an open-source framework for building, training, and fine-tuning Physics-ML models with a simple Python interface:
+    1.  https://developer.nvidia.com/modulus
+    2.  https://resources.nvidia.com/l/en-us-modulus-pathfactory-explore-page
+    3.  https://docs.nvidia.com/deeplearning/modulus/modulus-sym/index.html
+    4.  Develop Physics-Informed Machine Learning Models with Graph Neural Networks: https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/
 6.  Airfoil with UNET: https://github.com/flowfusic/flowfusic_airfoil_unet
     1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
     2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
