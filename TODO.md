@@ -16,3 +16,5 @@
     - [ ] Practice with Salome
     - [ ] Practice with Paravew
 - [ ] Try to apply deep / machine learning to CFD problems
+  - [ ] XCS224W, cs224w Stanford Courses
+  - [ ] NVIDIA Modulus tutorial
