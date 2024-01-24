@@ -16,6 +16,8 @@
 6.  Airfoil with UNET: https://github.com/flowfusic/flowfusic_airfoil_unet
     1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
     2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
+7.  Flow over an espresso cup: inferring 3-D velocity and pressure fields from tomographic background oriented Schlieren via physics-informed neural networks: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/flow-over-an-espresso-cup-inferring-3d-velocity-and-pressure-fields-from-tomographic-background-oriented-schlieren-via-physicsinformed-neural-networks/160E4A836637FE3996610389666DA030#article
+8.  Physics-informed neural networks (PINNs): https://www.youtube.com/watch?v=EHrgSPHZG3Y
 
 ### Heat transfer
 
