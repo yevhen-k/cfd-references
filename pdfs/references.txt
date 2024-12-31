@@ -9,3 +9,17 @@ https://engineeringbookslibrary.files.wordpress.com/2019/03/fundametalsoffluidme
 http://courses.washington.edu/me431/handouts/Album-Fluid-Motion-Van-Dyke.pdf
 
 https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
+
+https://www.researchgate.net/publication/267569764_The_OpenFOAM_Technology_Primer
+
+https://d1.amobbs.com/bbs_upload782111/files_46/ourdev_680516HBAK3D.pdf
+
+https://www.airloads.net/Downloads/Textbooks/Computational-Fluid-Dynamics-the-Basics-With-Applications-Anderson-J-D.pdf
+
+https://www.iust.ac.ir/files/mech/ayatgh_c5664/files/Computational_Fluid_Mechanics_and_Heat_Transfer___Anderson__Main_Reference.pdf
+
+http://servidor.demec.ufpr.br/CFD/bibliografia/Ferziger%20Peric%20-%20Computational%20Methods%20for%20Fluid%20Dynamics,%203rd%20Ed%20-%202002.pdf
+
+https://engineering.purdue.edu/~scalo/menu/teaching/me608/ME608_Notes_Murthy.pdf
+
+https://discovery.ucl.ac.uk/id/eprint/10084547/1/2019_UCL_OpenFOAM_course_notes_released.pdf
