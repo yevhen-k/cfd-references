@@ -8,7 +8,7 @@
 2.  OpenFOAM Machine Learning Hackathon: https://github.com/OFDataCommittee/OFMLHackathon/tree/main
 3.  Towards physics-based deep learning in OpenFOAM: Combining OpenFOAM with the PyTorch C++ API: https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/3528/2022-07-11-OFW17-training-pinn.pdf?sequence=1&isAllowed=y
 4.  Machine learning-aided CFD with OpenFOAM and PyTorch: https://andreweiner.github.io/reveal.js/ofw_training_2021.html#/8
-5.  NVIDIA Modulus is an open-source framework for building, training, and fine-tuning Physics-ML models with a simple Python interface:
+5. ⭐⭐⭐⭐ NVIDIA Modulus is an open-source framework for building, training, and fine-tuning Physics-ML models with a simple Python interface:
     1.  https://developer.nvidia.com/modulus
     2.  https://resources.nvidia.com/l/en-us-modulus-pathfactory-explore-page
     3.  https://docs.nvidia.com/deeplearning/modulus/modulus-sym/index.html
@@ -17,8 +17,16 @@
     1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
     2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
 7.  Flow over an espresso cup: inferring 3-D velocity and pressure fields from tomographic background oriented Schlieren via physics-informed neural networks: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/flow-over-an-espresso-cup-inferring-3d-velocity-and-pressure-fields-from-tomographic-background-oriented-schlieren-via-physicsinformed-neural-networks/160E4A836637FE3996610389666DA030#article
-8.  Physics-informed neural networks (PINNs): https://www.youtube.com/watch?v=EHrgSPHZG3Y
-    1.  https://github.com/orgs/KTH-FlowAI/repositories
+8. ⭐⭐⭐⭐ Ricardo Vinuesa https://www.youtube.com/@rvinuesa/videos
+    1.  Physics-informed neural networks (PINNs): https://www.youtube.com/watch?v=EHrgSPHZG3Y
+    2.  https://github.com/orgs/KTH-FlowAI/repositories
+9. ⭐⭐⭐⭐ A library for scientific machine learning and physics-informed learning: https://github.com/lululxvi/deepxde
+10. Computational Domain https://www.youtube.com/@computational_domain/videos
+
+#### NVidia Modulus Playlists
+1. Wonder HD
+   1. https://www.youtube.com/playlist?list=PLO5iAqoSdmjcvXG4ymKsCZUI79hu0qzkk
+   2. https://www.youtube.com/playlist?list=PLO5iAqoSdmje8Le8i_DtA87FGgSrPNnJ7
 
 ### Heat transfer
 
@@ -30,11 +38,20 @@
 3.  [73 videos] OpenFOAM Heat Transfer: https://www.youtube.com/playlist?list=PLhPfNw4V4_YR2Qa3Q9-AzNSF2J9Dc4_qT
 4.  google: optimization design of heat exchanger deep learning
 5.  google: optimization design of heat exchanger
+6.  CFD Expert: https://www.youtube.com/@CFDExpert/videos
+7.  DD Fluids: https://www.youtube.com/@DDFluids/videos
+8.  foamDude: https://www.youtube.com/@foamdude3596
+    1. OpenFOAM Tutorials  https://www.youtube.com/playlist?list=PLoISy5hD0gTz07HSnvhhy54ZysJiaQc3I
+       1. OpenFOAM: chtMultiRegion - topoSet https://www.youtube.com/watch?v=6bx1_B3CcME&list=PLoISy5hD0gTz07HSnvhhy54ZysJiaQc3I&index=9
+       2. OpenFOAM: chtMultiRegion - splitMesh https://www.youtube.com/watch?v=SOS1JopXmhQ&list=PLoISy5hD0gTz07HSnvhhy54ZysJiaQc3I&index=10
+       3. OpenFOAM: chtMultiRegion - multi region case setup https://www.youtube.com/watch?v=PeLAQhs4Ypw&list=PLoISy5hD0gTz07HSnvhhy54ZysJiaQc3I&index=11
+9. FreeCAD and OpenFOAM tutorial - case preparation and simulations with CfdOF https://www.youtube.com/watch?v=7i_K7fo8BSk
 
 ## Wiki, Books, Courses
 
 1.  ⭐⭐ Unofficial OpenFOAM wiki: https://openfoamwiki.net/index.php/Main_Page
 2.  ⭐⭐⭐⭐ OpenFOAM Training by CFD Support: https://www.cfdsupport.com/OpenFOAM-Training-by-CFD-Support/node1.html
+    1.  https://www.cfdsupport.com/openfoam-training-by-cfdsupport.html
 3.  ⭐⭐⭐⭐ "3 weeks" series: https://wiki.openfoam.com/index.php?title=%223_weeks%22_series
 4.  ⭐⭐⭐⭐ Tutorials: https://wiki.openfoam.com/index.php?title=Tutorials
 5.  ⭐⭐⭐⭐ Notes on Computational Fluid Dynamics: General Principles: https://doc.cfd.direct/notes/cfd-general-principles/
@@ -42,12 +59,15 @@
 7.  Advanced Fluid Mechanics: http://courses.washington.edu/me431/
     1.  http://courses.washington.edu/me431/handouts/
 8.  Problems ans Solutions: https://montoguequiz.com/mechanical/
+9.  Introduction to Computational Fluid Dynamics and Principles of Conservation: https://nptel.ac.in/courses/112105045
+10. The OpenFOAM Technology Primer: https://www.researchgate.net/publication/267569764_The_OpenFOAM_Technology_Primer
 
 
 ## Journals
 
 1. OpenFOAM® Journal: https://journal.openfoam.com/index.php/ofj
    1. Modelling Convective Heat Transfer of Air in a Data Center using OpenFOAM®-Evaluation of the Boussinesq Buoyancy Approximation: https://journal.openfoam.com/index.php/ofj/article/view/59/93
+2. OpenFOAM - Science topic: https://www.researchgate.net/topic/OpenFOAM/publications
 
 
 ### Articles
@@ -85,6 +105,8 @@
 18.  ⭐⭐⭐⭐ [12 videos] CFD basics: https://www.youtube.com/playlist?list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB
 19.  ⭐⭐⭐⭐ [10 videos] CFD intermediate: https://www.youtube.com/playlist?list=PLcOe4WUSsMkGPdwCpZfKcpn7w-EkgAMB8
 20.  ⭐⭐⭐ [8 videos] Computational Fluid Dynamics: https://www.youtube.com/playlist?list=PL-K7XxqaUNye0co-PFb-YJLfrFpvbYU33
+21.  https://jibranhaider.com/blog/openfoam-course-for-beginners/
+22.  ⭐⭐⭐⭐ https://www.cfdyna.com/Home/openFOAM_Tuts.html
 
 
 ## Literature
@@ -123,6 +145,9 @@
 2.  [44 videos] Salome-Platfrom: https://www.youtube.com/playlist?list=PL6xb6rX5ieWNNv2rYhdNO25WdJ_ChsU5E
 3.  [5 videos] Salome: https://www.youtube.com/playlist?list=PLkKD7eCr9mpzF036K1TW_PAOJnnGgvwsk
 
+## GMSH
+
+1. https://www.cfdyna.com/Home/gmshCatalogue.html
 
 # Valuable
 
@@ -138,6 +163,12 @@
 8.  Holzmann CFD: https://www.youtube.com/@HolzmannCFD
 9.  MIT OpenCourseWare: https://www.youtube.com/@mitocw
 10. ⭐⭐⭐⭐⭐ Steve Brunton: https://www.youtube.com/@Eigensteve
+11. ⭐⭐⭐⭐ Ricardo Vinuesa: Deep Learning CFD https://www.youtube.com/@rvinuesa/videos
+12.  EngineerDo https://www.youtube.com/@engineerdo6568/videos
+13. ⭐⭐⭐⭐⭐ Wolf Dynamics World https://www.youtube.com/@wolfdynamics5703/playlists
+    1. 😎OpenFOAM 9 - Introductory training - Self-paced and do it at anytime (2021) https://www.youtube.com/playlist?list=PLoI86R1JVvv8JHTymlAmDChejiwm846Wl
+       1. OpenFOAM Introductory Course Training Material http://www.wolfdynamics.com/tutorials.html?layout=edit&id=181
+       2. OpenFOAM 9 - Introductory Training [FILES] https://figshare.com/articles/media/OpenFOAM_Introductory_Training/16783657
 
 
 # Auxiliary education
@@ -149,6 +180,7 @@
 5.  Notes on Project Work, CFD, Programming and Computing: http://www.thevisualroom.com/index.html
 6.  Definitions, equations, derivations, references: https://potentialflow.com/flow-elements
 7.  Fluid Mechanics Lesson Series - Video lessons to help students learn undergraduate fluid mechanics: https://www.youtube.com/playlist?list=PLQR3QcO-W5he1X1GHd_IutnslXcr4mIh8
+8.  Turbulence Modeling Resource https://turbmodels.larc.nasa.gov/
 
 
 # Examples / Demos
@@ -156,11 +188,17 @@
 1.  [3 videos] Fluid Simulation: https://www.youtube.com/playlist?list=PLfd9K5jHLvZBPmaQtSkMnu7Nhj0CSxPy1
 2.  ⭐⭐⭐⭐⭐ OpenFOAM® Training Cases | Free Tutorials: https://holzmann-cfd.com/community/training-cases
 3.  https://www.bakker.org/index.htm
+4.  Conjugate heat transfer (plate fin heat sink) with Salome, OpenFOAM and Paraview https://www.youtube.com/watch?v=MD3cjOF8S60
+5.  Conjugate Heat Transfer in OpenFOAM | Basic | chtMultiRegionFoam https://www.youtube.com/watch?v=Nhhm-ZPxVRc
+    1.  Geometry (CAD) creation using #Salome Shaper module for a plate fin heat sink https://www.youtube.com/watch?v=sa2myJm9E8k
+6.  CFD analysis of shell type heat exchanger using OPENFOAM (Part-II) https://www.youtube.com/watch?v=xE7dVn8ovMg
+8.  Tutorial of a OpenFoam Simulation using Helyx - Complete Workflow of CFD - Multi inlet / outlet flow https://www.youtube.com/watch?v=2cywdPboXyw
 
 # Thesis
 
 1. Conjugate Heat Transfer with the Multiphysics Coupling Library preCICE: https://www5.in.tum.de/pub/Cheung2016_Thesis.pdf
 2. Supersonic and Transonic Adjoint-based Optimization of Airfoils: https://fenix.tecnico.ulisboa.pt/downloadFile/281870113704653/76594_Thesis_Final.pdf
+3. Modeling and simulation of convection-dominated species transfer at rising bubbles: https://tuprints.ulb.tu-darmstadt.de/11405/
 
 
 # Repos
@@ -174,12 +212,27 @@
 6.  Airfoil with UNET: https://github.com/flowfusic/flowfusic_airfoil_unet
     1.  https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76
     2.  https://github.com/pwswierczynski/flowfusic_airfoil_cnn
+7.  Deep Learning CFD: https://github.com/orgs/KTH-FlowAI/repositories
+8.  Introduces basic C++ concepts to beginner users of the OpenFOAM open-source CFD libraries. https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials
 
 
 # Projects
 
 1. Active turbulence cancelling: https://turbulence-solutions.aero/technology/
 
+
+# Misc
+
+## Programming
+1. ⭐⭐⭐⭐⭐ Basic OpenFOAM Programming Tutorial: Adding Passive Scalar Transport Equation to icoFoam [introduction of diffusion, demo] https://www.youtube.com/watch?v=L94iYGvZr9Q
+2. Programming in OpenFOAM: Adding energy equation Part 1 [heat conductivity] https://www.youtube.com/watch?v=HbTHss7Trn8
+3. Programming in OpenFOAM: Adding energy equation Part 2 [heat conductivity] https://www.youtube.com/watch?v=mkB10Ns-7NU
+4. Programming in OpenFOAM: writing a Custom Boundary Condition [symmetry bc, parabolic inlev U distribution] https://www.youtube.com/watch?v=3zcTxGHxuok
+5. Using non-uniform inlet profiles in openFOAM [custom boundary conditions] https://www.youtube.com/watch?v=K-nAF3qAPTc
+6. Parabolic velocity Boundary Condition in OpenFOAM | codedFixedValue https://www.youtube.com/watch?v=_jjYmW8sBNA
+
+## Explanations
+1. ⭐⭐⭐⭐⭐ OpenFOAM fvSchemes explained in under 5 mins https://www.youtube.com/watch?v=JlB6y8NSI20
 
 # Disclamer
 
